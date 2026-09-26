@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+urllib3
+pycryptodome
+zstandard
+colorama
